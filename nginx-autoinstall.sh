@@ -348,6 +348,7 @@ case $OPTION in
 		--with-http_ssl_module \
 		--with-http_v2_module \
 		--with-http_mp4_module \
+		--with-http_image_filter_module=dynamic \
 		--with-http_auth_request_module \
 		--with-http_slice_module \
 		--with-http_stub_status_module \
